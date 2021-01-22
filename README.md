@@ -1,15 +1,8 @@
 <h1 align="center">Glassmorphism - Business Card</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-jose-ricardo-silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/morenanobre/)](https://www.linkedin.com/in/jose-ricardo-silva/)
 [![Gmail Badge](https://img.shields.io/badge/-jricardo.ricarte@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=jricardo.ricarte@gmail.com)](mailto:jricardo.ricarte@gmail.com)
 
 <blockquote align="center">“A chave para transformação é a continuidade. Continue a codar!!!”</blockquote>
-
-<br>
-
-<p align="center">Deploy <a href="https://glass-business-card.netlify.app/" target="_blank">aqui!</a></p>
-
-<br>
 
 <hr>
 
